@@ -1,0 +1,4 @@
+Implement a pipeline for processing the selected text in English, including all necessary pre-processing of the text, including reducing words to lower case, removing stop words, numbers/non-alphabetic characters, punctuation marks.
+Divide the text into chapters and select the Top 20 words in each chapter using the TF-IDF algorithm.
+Implement the LDA algorithm and compare the results with those previously obtained using TF-IDF.
+Draw conclusions about the application of implemented approaches.
